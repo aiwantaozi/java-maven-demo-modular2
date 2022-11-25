@@ -57,7 +57,7 @@ Module 2:
   </parent>
 
   <!-- 子模块pom，groupID和version使用父模块的 -->
-  <artifactId>module1</artifactId>
+  <artifactId>module2</artifactId>
   <name>module2</name>
 
  <!-- 子模块module2包含有漏洞的另一版本的log4j -->
